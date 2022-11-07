@@ -1,1 +1,1 @@
-"# AndroidAPS-eternal" 
+# AndroidAPS-eternal
