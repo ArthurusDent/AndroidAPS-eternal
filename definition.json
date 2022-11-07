@@ -1,0 +1,10 @@
+[
+ {"minAndroid":1,"maxAndroid":23}
+ ,{"minAndroid":24,"maxAndroid":25,"supported":"2.6.2"}
+ ,{"minAndroid":26,"maxAndroid":27,"supported":"2.8.2"}
+ ,{"minAndroid":28,"maxAndroid":28,"supported":"2.8.2"}
+ ,{"minAndroid":29,"maxAndroid":29,"supported":"2.8.2"}
+ ,{"minAndroid":30,"maxAndroid":30,"supported":"2.8.2"}
+ ,{"minAndroid":31,"maxAndroid":32,"supported":"2.8.2"}
+ ,{"minAndroid":33,"maxAndroid":99,"supported":"2.8.2"}
+]
